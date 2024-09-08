@@ -1,0 +1,31 @@
+.container-signup {
+  width: 25%;
+  margin-top: 20px;
+}
+.form-container {
+  background-color: #f5f5f5;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.form-group label {
+  font-weight: bold;
+}
+.form-control:focus {
+  border-color: #9b59b6;
+  box-shadow: none;
+}
+.form-text {
+  color: #e74c3c;
+}
+.btn-submit {
+  background-color: #9b59b6;
+  color: white;
+  border: none;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+}
+.btn-submit:hover {
+  background-color: #8e44ad;
+}
